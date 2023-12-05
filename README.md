@@ -5,7 +5,7 @@
 ## Basta clonar [este repositório](https://github.com/RodrigoFreitas-L/escribo_inovacao_teste).
 
 <br>
-Instalar as dependências, utilizando o comando:
+Na pasta do projeto, instalar as dependências, utilizando o comando:
 <br>
 <pre><code>npm install</code></pre>
 <br>
