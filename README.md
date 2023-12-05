@@ -14,9 +14,10 @@ Rodar o projeto, utilizando o comando:
 <br>
 Digitar um número inteiro positivo:
 <br>
-![Preview](images/digite.png)
+![digite](https://github.com/RodrigoFreitas-L/escribo_inovacao_teste/assets/13532874/eb21656a-070c-4b16-879a-9b380e179e9d)
 <br>
-![Preview](images/resultado.png)
+![resultado](https://github.com/RodrigoFreitas-L/escribo_inovacao_teste/assets/13532874/2f318545-7f21-49da-80d8-626e31ed56c5)
+
 <br>
 <h3 align="center">
     Testes
